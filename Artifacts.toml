@@ -1,36 +1,36 @@
 [[Openresty]]
 arch = "i686"
-git-tree-sha1 = "7a380956b941fbb3ba5fa0d4a4dccae64e2534f1"
+git-tree-sha1 = "d917b94660054be8ef815bbae7b02643ef569978"
 libc = "glibc"
 os = "linux"
 
     [[Openresty.download]]
-    sha256 = "a25d8d04cf381eb725226a481655c02fd82f99cd1c6d4d7b3121cd8cf570b577"
-    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.15.8+0/Openresty.v1.15.8.i686-linux-gnu.tar.gz"
+    sha256 = "854a54c7dac126b63e8229aa3e0cd61dbb4a15cdef27f91d8e64de6c6de83bc4"
+    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.3+0/Openresty.v1.19.3.i686-linux-gnu.tar.gz"
 [[Openresty]]
 arch = "i686"
-git-tree-sha1 = "c6b3c9f6b412a7c8ac09518ad3bb980d517132c0"
+git-tree-sha1 = "7183fa6365e16a3f61edaf396acdb5ca1fe5c8c1"
 libc = "musl"
 os = "linux"
 
     [[Openresty.download]]
-    sha256 = "dac874c9fc0ff9f6a621aef71e43d5ea78ea73184f298144819a4557646cfa3c"
-    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.15.8+0/Openresty.v1.15.8.i686-linux-musl.tar.gz"
+    sha256 = "2e644b2cc0662f142657f482fdb263e03d03ebecb53a94de4e3bc1c861e94abb"
+    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.3+0/Openresty.v1.19.3.i686-linux-musl.tar.gz"
 [[Openresty]]
 arch = "x86_64"
-git-tree-sha1 = "c245239dc810b33108a72a45009b0f902e6e449c"
+git-tree-sha1 = "b57b76cbd39f68c4d266ad74d96b2e19d9f89f39"
 libc = "glibc"
 os = "linux"
 
     [[Openresty.download]]
-    sha256 = "0b8350c61ea08fc83c9383d0e6685e33804a1d338e253f19380d1366bbde1fec"
-    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.15.8+0/Openresty.v1.15.8.x86_64-linux-gnu.tar.gz"
+    sha256 = "cad0093dc7b2a2a417ff193ad262d9016d9a1038c89852401c94dbae9e619c48"
+    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.3+0/Openresty.v1.19.3.x86_64-linux-gnu.tar.gz"
 [[Openresty]]
 arch = "x86_64"
-git-tree-sha1 = "7e172bac945940bc54a3a17e45eb1c075134dcc1"
+git-tree-sha1 = "bfee06a2470eacc07817ced31a9c8ab02d47791a"
 libc = "musl"
 os = "linux"
 
     [[Openresty.download]]
-    sha256 = "8cc983670474d8f6f8d5568efb79f7d6860a4682679726b8ccbfe64155bb6efd"
-    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.15.8+0/Openresty.v1.15.8.x86_64-linux-musl.tar.gz"
+    sha256 = "d1bc43e1ba506edee2240fddb0d974651af071bfc0fc903344fc785956ee0444"
+    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.3+0/Openresty.v1.19.3.x86_64-linux-musl.tar.gz"
