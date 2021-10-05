@@ -1,6 +1,6 @@
 name = "Openresty_jll"
 uuid = "87da34d4-7b1b-5a94-8376-8cb65bf3132c"
-version = "1.19.3+0"
+version = "1.19.9+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

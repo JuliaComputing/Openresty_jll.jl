@@ -1,36 +1,18 @@
 [[Openresty]]
-arch = "i686"
-git-tree-sha1 = "d917b94660054be8ef815bbae7b02643ef569978"
+arch = "x86_64"
+git-tree-sha1 = "8734ebb1794d346e38f491a80ee184ee48ecb02a"
 libc = "glibc"
 os = "linux"
 
     [[Openresty.download]]
-    sha256 = "854a54c7dac126b63e8229aa3e0cd61dbb4a15cdef27f91d8e64de6c6de83bc4"
-    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.3+0/Openresty.v1.19.3.i686-linux-gnu.tar.gz"
+    sha256 = "a9fedc0189393e125dd70c87625a0d619d81466fd2a8124a0bc9b708af38d595"
+    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.9+0/Openresty.v1.19.9.x86_64-linux-gnu.tar.gz"
 [[Openresty]]
-arch = "i686"
-git-tree-sha1 = "7183fa6365e16a3f61edaf396acdb5ca1fe5c8c1"
+arch = "x86_64"
+git-tree-sha1 = "c37d42aaed507b0fbccc103abbc05b7515034e10"
 libc = "musl"
 os = "linux"
 
     [[Openresty.download]]
-    sha256 = "2e644b2cc0662f142657f482fdb263e03d03ebecb53a94de4e3bc1c861e94abb"
-    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.3+0/Openresty.v1.19.3.i686-linux-musl.tar.gz"
-[[Openresty]]
-arch = "x86_64"
-git-tree-sha1 = "b57b76cbd39f68c4d266ad74d96b2e19d9f89f39"
-libc = "glibc"
-os = "linux"
-
-    [[Openresty.download]]
-    sha256 = "cad0093dc7b2a2a417ff193ad262d9016d9a1038c89852401c94dbae9e619c48"
-    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.3+0/Openresty.v1.19.3.x86_64-linux-gnu.tar.gz"
-[[Openresty]]
-arch = "x86_64"
-git-tree-sha1 = "bfee06a2470eacc07817ced31a9c8ab02d47791a"
-libc = "musl"
-os = "linux"
-
-    [[Openresty.download]]
-    sha256 = "d1bc43e1ba506edee2240fddb0d974651af071bfc0fc903344fc785956ee0444"
-    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.3+0/Openresty.v1.19.3.x86_64-linux-musl.tar.gz"
+    sha256 = "c4963feba4821df71eed81fe95d369a98688659eba257a6784bab4cbf2278e31"
+    url = "https://github.com/JuliaBinaryWrappers/Openresty_jll.jl/releases/download/Openresty-v1.19.9+0/Openresty.v1.19.9.x86_64-linux-musl.tar.gz"
